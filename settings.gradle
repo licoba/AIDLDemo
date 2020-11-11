@@ -1,0 +1,3 @@
+include ':binderserver'
+include ':app'
+rootProject.name = "BinderDemo"
