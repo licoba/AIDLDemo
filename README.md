@@ -10,4 +10,4 @@ Android Studio 打开项目，先运行`bindserver`，再运行`app`
 
 ## 运行结果
 
-![](https://pic.downk.cc/item/5fab5d981cd1bbb86be9d427.jpg)
+![image.png](https://i.loli.net/2020/11/11/BhdzMFPS58mXiNp.png)
